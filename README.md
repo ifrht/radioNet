@@ -1,8 +1,7 @@
 # radioNet
 
-## Radyo Keyfi Gizlilik Politikası
-
-### Son Güncelleme: 01.09.2023
+## radioNet Pro Gizlilik Politikası
+Son Güncelleme: 01.09.2023
 
 radioNet Pro ("uygulama"), kullanıcılarımızın gizliliğini ciddiye almaktadır. Bu gizlilik politikası, uygulamamızın kişisel verileri nasıl topladığını, kullanıldığını, korunduğunu ve ifşa edildiğini açıklamaktadır.
 
